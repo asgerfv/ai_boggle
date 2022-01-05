@@ -1,3 +1,5 @@
+<pre>
+
 -:  Boggle Solver, July 2017 ::---------------------------------------------
 
 by Asger of Rota Galaxy
